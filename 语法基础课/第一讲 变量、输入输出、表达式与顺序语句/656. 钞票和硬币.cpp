@@ -1,6 +1,6 @@
 #include <cstdio>
 
-int main()
+int main ()
 {
     int a[] = {100, 50, 20, 10, 5, 2};
     int b[] = {100, 50, 25, 10, 5, 1};
