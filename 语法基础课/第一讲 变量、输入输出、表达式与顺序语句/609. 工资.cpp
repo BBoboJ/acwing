@@ -1,6 +1,6 @@
 #include <cstdio>
 
-int main()
+int main ()
 {
     int number, hour;
     double money;
