@@ -1,7 +1,7 @@
 #include <cstdio>
 #include <cmath>
 
-int main()
+int main ()
 {
     double x1, y1, x2, y2;
     
@@ -13,5 +13,5 @@ int main()
     return 0;
 }
 
-// sqrt函数
+// sqrt函数 - cmath库
 // ^ 异或符号
