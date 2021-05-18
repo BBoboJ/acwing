@@ -1,6 +1,6 @@
 #include <cstdio>
 
-int main()
+int main ()
 {
     double a, b;
     
