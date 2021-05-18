@@ -1,6 +1,6 @@
 #include <cstdio>
 
-int main()
+int main ()
 {
     int s;
     double oil;
