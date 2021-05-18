@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main ()
 {
     int a, b, c, maxnum;
     
@@ -15,3 +15,5 @@ int main()
     
     return 0;
 }
+
+// max = (a + b + abs(a - b)) / 2;
