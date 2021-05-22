@@ -2,10 +2,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
 	double x;
-	
 	cin >> x;
 	
 	if (x >= 0 && x <= 25) cout << "Intervalo [0,25]" << endl;
