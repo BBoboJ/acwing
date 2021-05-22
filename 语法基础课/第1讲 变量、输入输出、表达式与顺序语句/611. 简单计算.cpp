@@ -3,12 +3,10 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
-    int n1, n2;
-    int s1, s2;
+    int n1, n2, s1, s2;
     double p1, p2;
-    
     cin >> n1 >> s1 >> p1;
     cin >> n2 >> s2 >> p2;
     
