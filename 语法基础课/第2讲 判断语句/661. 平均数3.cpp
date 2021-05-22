@@ -3,10 +3,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     double n1, n2, n3, n4, x, y, z;
-    
     cin >> n1 >> n2 >> n3 >> n4;
     
     x = 0.2 * n1 + 0.3 * n2 + 0.4 * n3 + 0.1 * n4;
