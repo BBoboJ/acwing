@@ -3,10 +3,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     int a, n;
-    
     cin >> a;
     while (cin >> n && n <= 0);
     
