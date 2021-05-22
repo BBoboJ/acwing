@@ -2,10 +2,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     int n;
-    
     cin >> n;
     
     cout << n / 365 << " ano(s)" << endl;
