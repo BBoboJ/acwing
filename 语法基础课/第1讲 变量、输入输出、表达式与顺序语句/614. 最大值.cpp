@@ -5,7 +5,6 @@ using namespace std;
 int main ()
 {
     int a, b, c, maxnum;
-    
     cin >> a >> b >> c;
     
     maxnum = (a + b + abs(a - b)) / 2;
