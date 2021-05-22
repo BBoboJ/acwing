@@ -3,14 +3,13 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     int n, a;
     char t;
     int c = 0, r = 0, f = 0;
     
     cin >> n;
-    
     while (n -- )
     {
         cin >> a >> t;
