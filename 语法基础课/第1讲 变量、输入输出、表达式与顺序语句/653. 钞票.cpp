@@ -2,11 +2,10 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     int money;
     int cash[] = {100, 50, 20, 10, 5, 2, 1};
-    
     cin >> money;
     
     cout << money << endl;;
