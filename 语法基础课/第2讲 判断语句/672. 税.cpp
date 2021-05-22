@@ -3,11 +3,11 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     double salary, tax = 0;
-    
     cin >> salary;
+	
     if (salary > 4500)
     {
         tax += (salary - 4500) * 0.28;
