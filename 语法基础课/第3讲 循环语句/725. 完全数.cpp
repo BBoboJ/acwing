@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool IsPerfectNum (int num)
+bool IsPerfectNum(int num)
 {
     int sum = 0;
     
@@ -24,7 +24,6 @@ int main()
 {
     int n;
     cin >> n;
-    
     while (n -- )
     {
         int num;
