@@ -1,9 +1,8 @@
 #include <cstdio>
 
-int main ()
+int main()
 {
     long long s, t;
-    
     scanf("%lld %lld", &s, &t);
     
     printf("%.3lf",s * t / 12.0);
