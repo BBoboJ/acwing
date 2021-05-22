@@ -18,7 +18,6 @@ int main()
 {
     int n;
     cin >> n;
-    
     while (n -- )
     {
         int num;
@@ -27,5 +26,7 @@ int main()
         if (IsPrimeNum(num)) cout << num << " is prime" << endl;
         else cout << num << " is not prime" << endl;
     }
+	
     return 0;
+	
 }
