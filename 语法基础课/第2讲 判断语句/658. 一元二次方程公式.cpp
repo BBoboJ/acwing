@@ -4,10 +4,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     double a, b, c;
-    
     cin >> a >> b >> c;
     
     double delta = b * b - 4 * a * c;
