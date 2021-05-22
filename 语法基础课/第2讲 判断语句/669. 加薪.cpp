@@ -3,11 +3,10 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     double salary;
     int rate;
-    
     cin >> salary;
     
     if (salary <= 400) rate = 15;
@@ -23,4 +22,4 @@ int main ()
 	return 0;
 }
 
-// Êä³ö %  printf("%%");
+// è¾“å‡ºç™¾åˆ†å·  printf("%%");
