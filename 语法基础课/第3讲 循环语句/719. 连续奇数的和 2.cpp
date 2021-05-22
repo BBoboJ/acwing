@@ -5,11 +5,9 @@ using namespace std;
 
 int main()
 {
-    int n;
-    int x, y;
+    int n, x, y;
     
     cin >> n;
-    
     while (n -- )
     {
         int sum = 0;
