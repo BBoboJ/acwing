@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     int x;
     int max_index = -1;
